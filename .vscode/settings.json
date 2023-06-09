@@ -1,0 +1,29 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.configuration.runtimes": [
+
+        {
+            "name": "JavaSE-17",
+            "path": "C:\\Program Files\\Java\\jdk-17.0.5",
+            "default": true
+        }
+    ],
+    "java.import.gradle.offline.enabled": false,
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-17.0.5",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.import.gradle.java.home": "C:\\\\Program Files\\\\Java\\\\jdk-17.0.5",
+    "maven.excludedFolders": [
+
+        "**/.*",
+        "**/node_modules",
+        "**/target",
+        "**/bin",
+        "**/archetype-resources"
+    ],
+    "maven.terminal.favorites": [
+        
+    ],
+    "maven.terminal.customEnv": [
+        
+    ]
+}
